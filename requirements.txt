@@ -1,0 +1,8 @@
+fastapi==0.95.*
+uvicorn[standard]
+pydantic<2
+pandas
+numpy
+scikit-learn
+joblib
+pytest
