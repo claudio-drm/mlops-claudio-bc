@@ -31,4 +31,3 @@ git branch -M main
 git remote add origin https://github.com/tu_usuario/tu_repo.git
 git push -u origin main
 ```
-Crear el secret FLY_API_TOKEN con el valor de flyctl auth token.
